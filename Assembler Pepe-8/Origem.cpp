@@ -44,9 +44,9 @@ int main()
 	}
 
 	system("PAUSE");
-	return 0;
 	cin.sync();
 	cin.get();
+	return 0;
 }
 
 
