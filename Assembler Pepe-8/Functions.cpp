@@ -32,27 +32,27 @@ string STmConstRA(string constante) {
 }
 
 string ADDRARB() {
-	string machinecode = "00101xxxxxxxxx";
+	string machinecode = "001010xxxxxxxx";
 	return machinecode;
 }
 
 string SUBRARB() {
-	string machinecode = "00110xxxxxxxxx";
+	string machinecode = "001100xxxxxxxx";
 	return machinecode;
 }
 
 string ANDRARB() {
-	string machinecode = "00111xxxxxxxxx";
+	string machinecode = "001110xxxxxxxx";
 	return machinecode;
 }
 
 string ORRARB() {
-	string machinecode = "01000xxxxxxxxx";
+	string machinecode = "010000xxxxxxxx";
 	return machinecode;
 }
 
 string XORRARB() {
-	string machinecode = "01001xxxxxxxxx";
+	string machinecode = "010010xxxxxxxx";
 	return machinecode;
 }
 
